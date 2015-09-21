@@ -3,10 +3,10 @@
    <description url="http://innovent.googlecode.com/svn/trunk/update">
       Eclipse Update Site for various Google Code projects.  See project details for information on individual projects.
    </description>
-   <feature url="features/birt.controls.lib.feature_2.5.2.1.jar" id="birt.controls.lib.feature" version="2.5.2.1">
+   <feature url="features/birt.controls.lib.feature_2.5.2.2.jar" id="birt.controls.lib.feature" version="2.5.2.2">
       <category name="BIRT Controls"/>
    </feature>
-   <feature url="features/birt.functions.lib.feature_2.5.2.1.jar" id="birt.functions.lib.feature" version="2.5.2.1">
+   <feature url="features/birt.functions.lib.feature_2.6.1.10.jar" id="birt.functions.lib.feature" version="2.6.1.10">
       <category name="BIRT Functions"/>
    </feature>
    <category-def name="BIRT Functions" label="birt.functions.lib"/>
