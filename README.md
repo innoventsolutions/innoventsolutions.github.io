@@ -26,4 +26,4 @@ If you would like to see the source or contribute to any of the projects you sho
   * [BIRT Functions](https://github.com/innoventsolutions/birt-functions-lib)
   * [BIRT Controls](https://github.com/innoventsolutions/birt-controls-lib)
 
-The software in this project has been donated back to the BIRT community by Blackboard and Innovent under an Eclipse Public License 1.0.
+The software in this project has been donated back to the BIRT community by Blackboard and Innovent under an Eclipse Public License 2.0.
