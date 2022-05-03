@@ -8,7 +8,7 @@ We are a consulting firm and a member of the BIRT project team since 2004.  As c
 </tr>
 </table>
 
-Innovent has developed and is developing Open Source tools that can be used to develop, deploy and integrate BIRT reports.  In this repository, we host the Eclipse Update site that allows you to add our components to your Eclipse installation. It has been validated that the Update site is compatible with the latest BIRT version 4.5.0.
+Innovent Solutions has developed and is developing Open Source tools that can be used to develop, deploy and integrate BIRT reports.  In this repository, we host the Eclipse Update site that allows you to add our components to your Eclipse installation. It has been validated that the Update site is compatible with the latest BIRT version 4.9.0 (with Java 11).
 
 If you are using BIRT 2.5.1 or later the URL to paste into your Eclipse update manager is
 ```
