@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <description url="https://github.com/innoventsolutions.github.io">
+   <description name="Innovent BIRT Functions and Controls" url="https://github.com/innoventsolutions.github.io">
       Eclipse update site for BIRT Functions Lib and BIRT Controls Lib
    </description>
    <feature url="features/birt.controls.lib.feature_2.5.2.3.jar" id="birt.controls.lib.feature" version="2.5.2.3">
