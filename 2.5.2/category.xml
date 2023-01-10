@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+    <description name="Innovent BIRT Functions and Controls" url="https://github.com/innoventsolutions.github.io">
+        Eclipse update site for BIRT Functions Lib and BIRT Controls Lib
+     </description>
+     <feature id="birt.controls.lib.feature">
+        <category name="birt.controls.lib"/>
+     </feature>
+     <feature id="birt.functions.lib.feature">
+        <category name="birt.functions.lib"/>
+     </feature>
+     <category-def name="birt.functions.lib" label="BIRT Functions"/>
+     <category-def name="birt.controls.lib" label="BIRT Controls"/>
+  </site>
