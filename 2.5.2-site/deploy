@@ -1,0 +1,2 @@
+#!/bin/sh
+unzip target/innoventsolutions.github.io-2.5.2.1.zip -d ../2.5.2
