@@ -2,3 +2,4 @@ target
 eclipse
 eclipse.log
 eclipse.err.log
+derby.log

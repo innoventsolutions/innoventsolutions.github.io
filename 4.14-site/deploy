@@ -1,3 +1,10 @@
 #!/bin/sh
+cd "$(dirname "${BASH_SOURCE[0]}")"
+if ! ../../innoventsolutions.birt.releng/install; then
+    exit 1
+fi
+if [ -d ../4.14 ]; then
+    rm -rf ../4.14
+fi
 mkdir -p ../4.14
 unzip target/innoventsolutions.github.io-4.14.1.zip -d ../4.14
