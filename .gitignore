@@ -2,4 +2,6 @@ target
 eclipse
 eclipse.log
 eclipse.err.log
+install.log
+install.err.log
 derby.log
