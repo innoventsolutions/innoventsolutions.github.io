@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <description name="Innovent BIRT Functions and Controls" url="https://github.com/innoventsolutions.github.io">
-      Eclipse update site for BIRT Functions Lib and BIRT Controls Lib
+   <description name="Innovent BIRT Functions, Aggregates and Controls" url="https://github.com/innoventsolutions.github.io">
+      Eclipse update site for BIRT Functions Lib, BIRT Aggregations Lib, and BIRT Controls Lib
    </description>
    <feature url="features/birt.controls.lib.feature_2.5.2.3.jar" id="birt.controls.lib.feature" version="2.5.2.3">
       <category name="birt.controls.lib"/>
    </feature>
-   <feature url="features/birt.functions.lib.feature_4.14.1.jar" id="birt.functions.lib.feature" version="4.11.1">
+   <feature url="features/birt.functions.lib.feature_2.6.1.12.jar" id="birt.functions.lib.feature" version="2.6.1.12">
       <category name="birt.functions.lib"/>
    </feature>
+   <feature url="features/birt.aggregations.lib.feature_4.14.1.jar" id="birt.aggregations.lib.feature" version="4.14.1">
+      <category name="birt.aggregations.lib"/>
+   </feature>
    <category-def name="birt.functions.lib" label="BIRT Functions"/>
+   <category-def name="birt.aggregations.lib" label="BIRT Aggregations"/>
    <category-def name="birt.controls.lib" label="BIRT Controls"/>
 </site>
