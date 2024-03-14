@@ -1,6 +1,6 @@
 #!/bin/sh
 cd "$(dirname "${BASH_SOURCE[0]}")"
-if ! ./install; then
+if ! ../innoventsolutions.birt.releng/install; then
     exit 1
 fi
 if [ -d ../4.14 ]; then
