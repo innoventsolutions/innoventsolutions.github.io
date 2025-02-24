@@ -8,9 +8,14 @@ We are a consulting firm and a member of the BIRT project team since 2004.  As c
 </tr>
 </table>
 
-Innovent Solutions has developed and is developing Open Source tools that can be used to develop, deploy and integrate BIRT reports.  In this repository, we host the Eclipse Update site that allows you to add our components to your Eclipse installation. It has been validated that the Update site is compatible with the latest BIRT version 4.10.0 (with Java 11).
+Innovent Solutions has developed and is developing Open Source tools that can be used to develop, deploy and integrate BIRT reports.  In this repository, we host the Eclipse Update site that allows you to add our components to your Eclipse installation. It has been validated that the Update site is compatible with the latest BIRT version 4.18 (with Java 17).
 
-If you are using BIRT 2.5.1 or later the URL to paste into your Eclipse update manager is
+For most recent versions of BIRT, the URL to paste into your Eclipse update manager is
+```
+ http://innoventsolutions.github.io/4.14
+```
+
+If you are using BIRT 2.5.2 through 4.6 or you find the version you are using has comatibility problems with the above URL, use this:
 ```
  http://innoventsolutions.github.io/2.5.2
 ```
@@ -25,6 +30,5 @@ If you would like to see the source or contribute to any of the projects you sho
 
   * [BIRT Functions](https://github.com/innoventsolutions/birt-functions-lib)
   * [BIRT Controls](https://github.com/innoventsolutions/birt-controls-lib)
-  * [BIRT Aggregations](https://github.com/innoventsolutions/birt-aggregations-lib)
 
-The software in this project has been donated back to the BIRT community by Blackboard and Innovent under an Eclipse Public License 2.0.
+The software in this project has been donated back to the BIRT community by Blackboard and Innovent under an Eclipse Public License 1.0.
